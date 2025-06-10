@@ -38,7 +38,7 @@ The Bank Loan Analysis project is developed using Excel and explores real-world 
 
  -Dashboard Creation using slicers, charts, and tables
 
-- Business Documentation to provide domain context and purpose
+ -Business Documentation to provide domain context and purpose
 
 ## Supporting Documents
 - problem_statement.docx: Overview of the project goals and use case
@@ -90,10 +90,10 @@ Word Documents for Business Context
 ## Contributing
 This is an educational project and also part of a data analytics portfolio created to showcase skills in Excel. Contributions through ideas, queries, or feedback are welcome!
 
-## Screenshots
- # Summary Dashboard
- # Overview Report
+# Screenshots
+ ### Summary Dashboard
+ ### Overview Report
 
- Charts & Visuals
+
   
 
