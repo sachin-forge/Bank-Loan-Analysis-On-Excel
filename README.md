@@ -69,10 +69,10 @@ This is an educational project and also part of a data analytics portfolio creat
 
 ## Screenshots
 #### Summary Dashboard
-  ![Summary Dashboard] (https://github.com/sachin-forge/Bank-Loan-Analysis-On-Excel/blob/71d72a9a2bf2229ffee799ec6d49171dddffd690/Screenshot_dashboard.png)
+  ![Summary Dashboard] (https://github.com/sachin-forge/Bank-Loan-Analysis-On-Excel/blob/71d72a9a2bf2229ffee799ec6d49171dddffd690/Screenshot_dashboard.png?raw=true)
  
  #### Overview Report
-  ![Overview Report] (https://github.com/sachin-forge/Bank-Loan-Analysis-On-Excel/blob/71d72a9a2bf2229ffee799ec6d49171dddffd690/Screenshot_overview_report.png)
+  ![Overview Report] (https://github.com/sachin-forge/Bank-Loan-Analysis-On-Excel/blob/71d72a9a2bf2229ffee799ec6d49171dddffd690/Screenshot_overview_report.png?raw=true)
 
 
   
