@@ -11,15 +11,11 @@ This project focuses on performing comprehensive analysis on bank loan data usin
 4. **Average Interest Rate**
 5. **Average Debt to Income Ratio (DTI)**
 
----
-
 ### Good Loan KPIs
 1. **Good Loan Application Percentage**
 2. **Number of Good Loan Applications**
 3. **Total Good Loan Funded Amount**
 4. **Total Good Loan Received Amount**
-
----
 
 ### Bad Loan KPIs
 1. **Bad Loan Application Percentage**
@@ -72,8 +68,8 @@ An interactive Excel dashboard was created to provide intuitive visuals for quic
 This is an educational project and also part of a data analytics portfolio created to showcase skills in Excel. Contributions through ideas, queries, or feedback are welcome!
 
 # Screenshots
- ### Summary Dashboard https://github.com/sachin-forge/Bank-Loan-Analysis-On-Excel/blob/main/Screenshot_dashboard.png
- ### Overview Report https://github.com/sachin-forge/Bank-Loan-Analysis-On-Excel/blob/main/Screenshot_overview_report.png
+  ![Summary Dashboard] (https://github.com/sachin-forge/Bank-Loan-Analysis-On-Excel/blob/main/Screenshot_dashboard.png)
+  ![Overview Report] (https://github.com/sachin-forge/Bank-Loan-Analysis-On-Excel/blob/main/Screenshot_overview_report.png)
 
 
   
