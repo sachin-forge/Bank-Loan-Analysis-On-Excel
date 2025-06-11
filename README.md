@@ -67,10 +67,12 @@ An interactive Excel dashboard was created to provide intuitive visuals for quic
 ## Contributing
 This is an educational project and also part of a data analytics portfolio created to showcase skills in Excel. Contributions through ideas, queries, or feedback are welcome!
 
-# Screenshots
-  ![Summary Dashboard] (https://github.com/sachin-forge/Bank-Loan-Analysis-On-Excel/blob/main/Screenshot_dashboard.png)
+## Screenshots
+#### Summary Dashboard
+  ![Summary Dashboard] (https://github.com/sachin-forge/Bank-Loan-Analysis-On-Excel/blob/71d72a9a2bf2229ffee799ec6d49171dddffd690/Screenshot_dashboard.png)
  
-  ![Overview Report] (https://github.com/sachin-forge/Bank-Loan-Analysis-On-Excel/blob/main/Screenshot_overview_report.png)
+ #### Overview Report
+  ![Overview Report] (https://github.com/sachin-forge/Bank-Loan-Analysis-On-Excel/blob/71d72a9a2bf2229ffee799ec6d49171dddffd690/Screenshot_overview_report.png)
 
 
   
