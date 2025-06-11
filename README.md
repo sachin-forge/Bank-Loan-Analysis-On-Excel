@@ -42,8 +42,8 @@ An interactive Excel dashboard was created to provide intuitive visuals for quic
 
  bank-loan-analysis-excel
 │
-├──  bank_loan.csv # Dataset used for analysis
-├──  Bank_Loan_Dashboard.xlsx # Excel file with complete dashboard and analysis
+├──  financial_loan.csv # Dataset used for analysis
+├──  Bank_Loan_Analysis.xlsx # Excel file with complete dashboard and analysis
 ├──  README.md # Project documentation (this file)
 
 ## Tools Used
@@ -73,7 +73,7 @@ This is an educational project and also part of a data analytics portfolio creat
 
 # Screenshots
  ### Summary Dashboard https://github.com/sachin-forge/Bank-Loan-Analysis-On-Excel/blob/main/Screenshot_dashboard.png
- ### Overview Report
+ ### Overview Report https://github.com/sachin-forge/Bank-Loan-Analysis-On-Excel/blob/main/Screenshot_overview_report.png
 
 
   
